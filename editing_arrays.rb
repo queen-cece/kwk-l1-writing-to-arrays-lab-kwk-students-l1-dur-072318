@@ -16,8 +16,8 @@ end
 def add_colors
   rainbow_colors = change_rainbow_colors
   
-  rainbow_colors[3] = "blue"
-  rainbow_colors[4] = "green"
+  rainbow_colors[3] = "green"
+  rainbow_colors[4] = "blue"
   # Write a solution that adds "green", then "blue" to the rainbow_colors array, then returns the array
   puts rainbow_colors
 end
