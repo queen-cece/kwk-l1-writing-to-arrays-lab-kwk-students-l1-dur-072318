@@ -23,4 +23,3 @@ def add_colors
 end
 #puts change_rainbow_colors
 puts add_colors
-puts rainbow_colors
