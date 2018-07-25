@@ -5,7 +5,7 @@ rainbow_colors = [
 ]
 
 def change_rainbow_colors
-  "red"
+ rainbow_colors "red"
   "light_red"
   "light_yellow"
 end
